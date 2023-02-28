@@ -1,5 +1,4 @@
 ### Hey folks! My name is Jessica Ambriz-Madrigal! My pronouns are she, her, hers, they, them, and theirs. 
-<!-- - 🔭 I’m currently working on ... -
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - ⚡ Fun fact: ... -->
